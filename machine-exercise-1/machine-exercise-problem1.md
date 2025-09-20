@@ -5,7 +5,7 @@ Computer Science Department
 
 **CS 114 – Operating Systems**  
 
-*Machine Exercise No.1*  
+# Machine Exercise No.1  
 In Lecture 2, we described a program that copies the contents of one file to a destination file.
 This program works by first prompting the user for the name of the source and destination files.
 Write two versions of this program, one using the POSIX API and the other using standard C
