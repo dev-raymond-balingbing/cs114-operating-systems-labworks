@@ -4,7 +4,7 @@ Computer Science Department
 
 **CS 114 – Operating Systems**  
 
-*Machine Exercise No.2*  
+# Machine Exercise No.2  
 A. Read the manual (man) about the **fork()** , **getpid()** , **getppid()** **UNIX/Linux API**
 functions. Then write a program which creates one child process, and then both parent and
 child are running in blind loops displaying their PIDs and PPIDs. This way you will have the
